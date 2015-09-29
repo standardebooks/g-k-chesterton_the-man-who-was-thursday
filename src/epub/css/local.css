@@ -1,6 +1,47 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+b{
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+}
+
+.signature{
+	text-align: right;
+	margin-top: 1em;
+}
+
+*[epub|type~="z3998:verse"] p,
+*[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+
+*[epub|type~="z3998:verse"] p span,
+*[epub|type~="z3998:poem"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:verse"] br,
+*[epub|type~="z3998:poem"] br{
+	display: none;
+}
+
+*[epub|type~="z3998:verse"] p + p,
+*[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
