@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday</dc:identifier>
 		<dc:date>2015-09-30T01:53:42Z</dc:date>
-		<meta property="dcterms:modified">2015-10-05T23:04:34Z</meta>
+		<meta property="dcterms:modified">2015-10-06T03:58:39Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>

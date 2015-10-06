@@ -45,10 +45,3 @@ section[epub|type~="dedication"] p{
 *[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
-
-/* helpful during drafting */
-*[epub|type~="z3998:roman"],
-*[lang]:not(html),
-abbr{
-	background: #C0C0C0;
-}
