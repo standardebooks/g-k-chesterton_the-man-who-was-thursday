@@ -10,16 +10,15 @@ b{
 	font-variant: small-caps;
 }
 
-section[epub|type~="dedication"] p{
-	font-variant: small-caps;
-	margin-top: 3em;
-	text-align: center;
-	text-indent: 0;
-}
-
 .signature{
 	text-align: right;
 	margin-top: 1em;
+}
+
+blockquote .signature,
+[epub|type~="z3998:verse"] p.signature{
+	text-align: right;
+	margin-top: 0;
 }
 
 [epub|type~="z3998:verse"] p,
