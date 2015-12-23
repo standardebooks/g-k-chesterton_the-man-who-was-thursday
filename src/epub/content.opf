@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday</dc:identifier>
 		<dc:date>2015-12-01T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:47:20Z</meta>
+		<meta property="dcterms:modified">2015-12-23T02:14:27Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,7 +49,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/1695</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/007122502</dc:source>
 		<meta property="se:production-notes">Italics and some other formatting that was missing in the Gutenberg transcription was re-added by checking against the print version scanned in at Hathi Trust.</meta>
-		<meta property="se:word-count">58397</meta>
+		<meta property="se:word-count">58391</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_the-man-who-was-thursday</meta>
