@@ -57,12 +57,12 @@
 		<meta property="file-as" refines="#author">Chesterton, G. K.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Gilbert Keith Chesterton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/G._K._Chesterton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021157.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021157</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Carlo Carrà</dc:contributor>
 		<meta property="file-as" refines="#artist">Carrà, Carlo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Carlo_Carr%C3%A0</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043180.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79043180</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Harry Plantinga</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Plantinga, Harry</meta>
