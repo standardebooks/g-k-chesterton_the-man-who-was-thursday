@@ -10,9 +10,13 @@ b{
 	font-variant: small-caps;
 }
 
-.signature{
+footer{
 	text-align: right;
 	margin-top: 1em;
+}
+
+.signature{
+	font-variant: small-caps;
 }
 
 blockquote .signature,
