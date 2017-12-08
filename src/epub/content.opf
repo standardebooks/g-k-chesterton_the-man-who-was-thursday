@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday</dc:identifier>
 		<dc:date>2015-12-01T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-10-30T22:20:52Z</meta>
-		<meta property="se:revision-number">37</meta>
+		<meta property="dcterms:modified">2017-12-08T21:12:37Z</meta>
+		<meta property="se:revision-number">38</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1695</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007122502</dc:source>
-		<meta property="se:production-notes">Italics and some other formatting that was missing in the Gutenberg transcription was re-added by checking against the print version scanned in at Hathi Trust.</meta>
+		<meta property="se:production-notes">Italics and some other formatting that was missing in the Gutenberg transcription was re-added by checking against the print version scanned in at HathiTrust.</meta>
 		<meta property="se:word-count">58404</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday</meta>
