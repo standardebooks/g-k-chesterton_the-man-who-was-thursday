@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday</dc:identifier>
 		<dc:date>2015-12-01T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2019-01-20T17:53:27Z</meta>
-		<meta property="se:revision-number">49</meta>
+		<meta property="dcterms:modified">2019-02-24T21:38:42Z</meta>
+		<meta property="se:revision-number">50</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,7 +53,7 @@
 		<dc:description id="description">An undercover policeman infiltrates a mysterious Anarchist group.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Sometimes described as thrilling, sometimes as comic, and sometimes as metaphysical or spiritual, &lt;i&gt;The Man Who Was Thursday&lt;/i&gt; is perhaps a little of each. The tale begins when an undercover policeman infiltrates a mysterious Anarchist group. As the novel progresses, things become more comic and improbable, and eventually settle in to as sort of abstract, dreamlike state. Filled with Christian allegory, &lt;i&gt;Thursday&lt;/i&gt; is a glittering, fascinating exploration of good versus evil and theology through the lens of adventure, wit, and the surreal.&lt;/p&gt;
+			&lt;p&gt;Sometimes described as thrilling, sometimes as comic, and sometimes as metaphysical or spiritual, &lt;i&gt;The Man Who Was Thursday&lt;/i&gt; is perhaps a little of each. The tale begins when an undercover policeman infiltrates a mysterious Anarchist group. As the novel progresses, things become more comic and improbable, and eventually evolve in to a sort of abstract, dreamlike state. Filled with Christian allegory, &lt;i&gt;Thursday&lt;/i&gt; is a glittering, fascinating exploration of good versus evil and theology through the lens of adventure, wit, and the surreal.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
