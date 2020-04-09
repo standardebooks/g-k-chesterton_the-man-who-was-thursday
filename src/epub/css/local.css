@@ -6,12 +6,12 @@ footer{
 	margin-top: 1em;
 }
 
-.signature{
+.signature,
+cite{
 	font-variant: small-caps;
 }
 
-blockquote .signature,
-[epub|type~="z3998:verse"] p.signature{
+blockquote .signature{
 	text-align: right;
 	margin-top: 0;
 }
@@ -34,7 +34,6 @@ blockquote .signature,
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p,
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
