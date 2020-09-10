@@ -6,12 +6,12 @@ footer{
 	margin-top: 1em;
 }
 
-[epub:type~="z3998:signature"],
+[epub|type~="z3998:signature"],
 cite{
 	font-variant: small-caps;
 }
 
-blockquote [epub:type~="z3998:signature"]{
+blockquote [epub|type~="z3998:signature"]{
 	text-align: right;
 	margin-top: 0;
 }
