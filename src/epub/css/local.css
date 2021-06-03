@@ -37,3 +37,9 @@ blockquote [epub|type~="z3998:signature"]{
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
+
+[epub|type~="dedication"] > p{
+	font-variant: small-caps;
+	margin: 3em;
+	text-align: center;
+}
