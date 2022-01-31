@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"],
@@ -12,8 +12,8 @@ cite{
 }
 
 blockquote [epub|type~="z3998:signature"]{
-	text-align: right;
 	margin-top: 0;
+	text-align: right;
 }
 
 [epub|type~="z3998:verse"] p,
