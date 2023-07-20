@@ -54,6 +54,8 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008109488</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An undercover policeman infiltrates a mysterious Anarchist group.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Sometimes described as thrilling, sometimes as comic, and sometimes as metaphysical or spiritual, &lt;i&gt;The Man Who Was Thursday&lt;/i&gt; is perhaps a little of each. The tale begins when an undercover policeman infiltrates a mysterious Anarchist group. As the novel progresses, things become more comic and improbable, and eventually evolve in to a sort of abstract, dreamlike state. Filled with Christian allegory, &lt;i&gt;Thursday&lt;/i&gt; is a glittering, fascinating exploration of good versus evil and theology through the lens of adventure, wit, and the surreal.&lt;/p&gt;
