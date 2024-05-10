@@ -65,7 +65,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/007122502</dc:source>
 		<meta property="se:production-notes">Italics and some other formatting that was missing in the Gutenberg transcription was re-added by checking against the print version scanned in at HathiTrust.</meta>
 		<meta property="se:word-count">58405</meta>
-		<meta property="se:reading-ease.flesch">71.55</meta>
+		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Who_Was_Thursday</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_the-man-who-was-thursday</meta>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
