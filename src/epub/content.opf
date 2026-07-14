@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Man Who Was Thursday: A Nightmare</dc:title>
 		<meta property="file-as" refines="#fulltitle">Man Who Was Thursday, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-2">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-3">London (England) -- Fiction</dc:subject>
