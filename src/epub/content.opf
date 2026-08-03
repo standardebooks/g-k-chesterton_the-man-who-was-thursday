@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday</dc:identifier>
 		<dc:date>2015-12-01T00:01:00Z</dc:date>
@@ -58,10 +58,10 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">An undercover policeman infiltrates a mysterious Anarchist group.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An undercover policeman infiltrates a mysterious Anarchist group.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Sometimes described as thrilling, sometimes as comic, and sometimes as metaphysical or spiritual, &lt;i&gt;The Man Who Was Thursday&lt;/i&gt; is perhaps a little of each. The tale begins when an undercover policeman infiltrates a mysterious Anarchist group. As the novel progresses, things become more comic and improbable, and eventually evolve in to a sort of abstract, dreamlike state. Filled with Christian allegory, &lt;i&gt;Thursday&lt;/i&gt; is a glittering, fascinating exploration of good versus evil and theology through the lens of adventure, wit, and the surreal.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1695</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007122502</dc:source>
